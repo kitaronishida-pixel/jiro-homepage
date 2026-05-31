@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>私の大学</title>
+</head>
+<body>
+
+    <h1>二郎のウェブサイト</h1>
+    <p>ここは、私が自由に書き残す場所。</p>
+
+    <h2>予定</h2>
+    <ul>
+        <li>日記、小品</li>
+        <li>思考の整理</li>
+    </ul>
+
+</body>
+</html>
